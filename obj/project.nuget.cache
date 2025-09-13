@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "C5rq6d48frlgxy0P6xLB5eIxqt3ZassQSt1gY9TDltRHeKLjLKquPdwEwc7S7PF3SIXu02LRteHs4eehSAOB2w==",
+  "success": true,
+  "projectFilePath": "/home/mateus/Personal/DotnetApi/DotnetApi.csproj",
+  "expectedPackageFiles": [
+    "/home/mateus/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/mateus/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/mateus/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/mateus/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/mateus/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/mateus/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
